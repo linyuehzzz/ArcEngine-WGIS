@@ -1,0 +1,9 @@
+D:\Lydia\资环6班\大三下\软件工程Arcgis Engine\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Lydia\资环6班\大三下\软件工程Arcgis Engine\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Lydia\资环6班\大三下\软件工程Arcgis Engine\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Lydia\资环6班\大三下\软件工程Arcgis Engine\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Lydia\资环6班\大三下\软件工程Arcgis Engine\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Lydia\资环6班\大三下\软件工程Arcgis Engine\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Lydia\资环6班\大三下\软件工程Arcgis Engine\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Lydia\资环6班\大三下\软件工程Arcgis Engine\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Lydia\资环6班\大三下\软件工程Arcgis Engine\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FrmAttribute.resources
